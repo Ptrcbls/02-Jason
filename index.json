@@ -1,0 +1,33 @@
+{
+ "marvelCinematicUni": [{
+        "titolo": "Iron Man",
+        "data_di_uscita:": "2008",
+        "regia": "Jon Favreau",
+        "produtori":["Avi Arad","Kevin Feige"]
+    },
+    {
+        "titolo": "Iron Man 2",
+        "data_di_uscita:": "2010",
+        "regia": "Jon Favreau",
+        "produtori":["Kevin Feige"]
+    },
+    {
+        "titolo": "L'incredibile Hulk",
+        "data_di_uscita:": "2008",
+        "regia": "Louis Leterrier",
+        "produtori":["Avi Arad","Kevin Feige"]
+    },
+    {
+        "titolo": "Iron Man 2",
+        "data_di_uscita:": "2010",
+        "regia": "Jon Favreau",
+        "produtori":["Kevin Feige"]
+    },
+    {
+        "titolo": "Thor",
+        "data_di_uscita:": "2011",
+        "regia": "Kenneth Branagh",
+        "produtori":["Kevin Feige"]
+     }
+]
+}
